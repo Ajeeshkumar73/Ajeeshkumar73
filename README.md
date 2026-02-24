@@ -77,127 +77,138 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
-### 🌾 FARMIE – Agriculture Management System
+<table>
+<tr>
 
-Web-based agricultural marketplace supporting farm management,  
+<td width="50%" align="center">
+
+<h3>🌾 FARMIE – Agriculture Management System</h3>
+
+<p>
+Web-based agricultural marketplace supporting farm management,
 online purchase of tools & fertilizers, and worker connectivity.
+</p>
 
-🔹 HTML • CSS • Bootstrap • JS  
-🔹 PHP • MySQL  
-🔹 Admin Monitoring Panel  
-🔹 Online Order Management  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql" />
+
+<br/><br/>
 
 <a href="https://github.com/Ajeeshkumar73/farmie">
   <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
 </a>
 
-<br/>
+</td>
 
+<td width="50%" align="center">
 
+<h3>🎯 LEARNLOOP – AI Career Assistant</h3>
 
-### 🎯 LEARNLOOP – AI Career Assistant
+<p>
+AI & ML powered career recommendation system with voice assistant
+predicting top 3 suitable career domains.
+</p>
 
-AI & ML powered career recommendation system with voice assistant  
-that predicts the top 3 suitable career paths.
+<img src="https://skillicons.dev/icons?i=django,postgres,python,tailwind,js" />
 
-🔹 Django • PostgreSQL  
-🔹 Random Forest ML Model  
-🔹 Gemini 2.0 Flash AI  
-🔹 Voice-based Assistant 
+<br/><br/>
 
 <a href="https://github.com/Ajeeshkumar73/LearnLoop">
   <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
 </a>
 
-<br/>
+</td>
 
-### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
+</tr>
 
-Machine learning based healthcare system predicting lifestyle disease risk  
-with prevention strategies and doctor appointment booking.
+<tr>
 
-🔹 Flask • MongoDB  
-🔹 Random Forest ML  
-🔹 Risk Prediction System  
-🔹 Appointment Booking  
+<td width="50%" align="center">
+
+<h3>❤️ WELLNESS WAVE – Lifestyle Disease Prediction</h3>
+
+<p>
+ML-based healthcare platform predicting lifestyle disease risk
+with prevention strategies & appointment booking.
+</p>
+
+<img src="https://skillicons.dev/icons?i=flask,mongodb,python,js,bootstrap" />
+
+<br/><br/>
 
 <a href="https://github.com/Ajeeshkumar73/wellness_wave">
   <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
 </a>
-<br/>
-### 📊 Score Tracker – ML Productivity Platform
 
-ML-driven employee productivity analysis platform that predicts performance  
-and recommends high-impact tasks using historical task data.
+</td>
 
-🔹 Flask • MongoDB  
-🔹 Productivity Score Prediction  
-🔹 Employee Ranking  
-🔹 Task Recommendation Engine  
+<td width="50%" align="center">
+
+<h3>📊 Score Tracker – ML Productivity Platform</h3>
+
+<p>
+ML-driven employee productivity system predicting performance,
+ranking employees & recommending high-impact tasks.
+</p>
+
+<img src="https://skillicons.dev/icons?i=flask,mongodb,python,tailwind,js" />
+
+<br/><br/>
+
 <a href="https://github.com/Ajeeshkumar73/score-tracker">
   <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
 </a>
 
-### 🛡️ Online Crime Reporting & Analysis System
+</td>
 
-Smart crime reporting platform enabling citizens to submit complaints online.  
-Uses clustering & data mining techniques to analyze crime trends and assist investigations.
+</tr>
 
-🔹 HTML • CSS • Bootstrap • JavaScript  
-🔹 PHP • MySQL  
-🔹 Crime Pattern Detection  
-🔹 Data Mining Based Analysis  
+<tr>
 
-<br/>
-### 🌱 FARMILY – Agricultural Support Platform
+<td width="50%" align="center">
 
-Supports beginners entering farming by offering crop cultivation guidance,  
-disease detection with solutions, and a marketplace to sell crops.
+<h3>🛡️ Online Crime Reporting & Analysis</h3>
 
-🔹 Python Flask • MongoDB  
-🔹 Crop Disease Solutions  
-🔹 Beginner Farming Guide  
-🔹 Sell Harvest Platform  
+<p>
+Smart crime reporting platform with clustering-based crime
+pattern detection for efficient investigation.
+</p>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql" />
 
-</div>
+<br/><br/>
 
-## 🚀 Featured Projects
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
 
-<div align="center">
+</td>
 
-### 🌾 FARMIE – Agriculture Management System
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=farmie&theme=dark&hide_border=true" />
+<td width="50%" align="center">
 
-<br/>
+<h3>🌱 FARMILY – Agricultural Support Platform</h3>
 
-### 🎯 LEARNLOOP – AI Career Assistant
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=LearnLoop&theme=dark&hide_border=true" />
+<p>
+Beginner-friendly farming support system providing crop guidance,
+disease solutions & harvest selling platform.
+</p>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=flask,mongodb,python,js,bootstrap" />
 
-### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=wellness_wave&theme=dark&hide_border=true" />
+<br/><br/>
 
-<br/>
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
 
-### 📊 Score Tracker – ML Productivity Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=score-tracker&theme=dark&hide_border=true" />
+</td>
 
-<br/>
+</tr>
 
-### 🛡️ Online Crime Reporting & Analysis System
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=online-crime-reporting&theme=dark&hide_border=true" />
-
-<br/>
-
-### 🌱 FARMILY – Agricultural Support Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=farmily&theme=dark&hide_border=true" />
+</table>
 
 </div>
 
