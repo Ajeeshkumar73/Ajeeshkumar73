@@ -82,7 +82,6 @@
 <div align="center">
 
 ### 🛡️ Online Crime Reporting & Analysis System
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=ONLINE-CRIME-REPORTING&theme=dark&hide_border=true" />
 
 Smart crime reporting platform enabling citizens to submit complaints online.  
 Uses clustering & data mining techniques to analyze crime trends and assist investigations.
@@ -95,7 +94,7 @@ Uses clustering & data mining techniques to analyze crime trends and assist inve
 <br/>
 
 ### 🌾 FARMIE – Agriculture Management System
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=FARMIE&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=farmie&theme=dark&hide_border=true" />
 
 Web-based agricultural marketplace supporting farm management,  
 online purchase of tools & fertilizers, and worker connectivity.
@@ -108,7 +107,6 @@ online purchase of tools & fertilizers, and worker connectivity.
 <br/>
 
 ### 🌱 FARMILY – Agricultural Support Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=FARMILY&theme=dark&hide_border=true" />
 
 Supports beginners entering farming by offering crop cultivation guidance,  
 disease detection with solutions, and a marketplace to sell crops.
@@ -121,7 +119,7 @@ disease detection with solutions, and a marketplace to sell crops.
 <br/>
 
 ### 🎯 LEARNLOOP – AI Career Assistant
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=LEARNLOOP&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=LearnLoop&theme=dark&hide_border=true" />
 
 AI & ML powered career recommendation system with voice assistant  
 that predicts the top 3 suitable career paths.
@@ -134,7 +132,7 @@ that predicts the top 3 suitable career paths.
 <br/>
 
 ### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=WELLNESS-WAVE&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=wellness_wave&theme=dark&hide_border=true" />
 
 Machine learning based healthcare system predicting lifestyle disease risk  
 with prevention strategies and doctor appointment booking.
@@ -147,7 +145,7 @@ with prevention strategies and doctor appointment booking.
 <br/>
 
 ### 📊 Score Tracker – ML Productivity Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=SCORE-TRACKER&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=score-tracker&theme=dark&hide_border=true" />
 
 ML-driven employee productivity analysis platform that predicts performance  
 and recommends high-impact tasks using historical task data.
