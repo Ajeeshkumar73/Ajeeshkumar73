@@ -77,7 +77,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -129,6 +129,18 @@ with prevention strategies and doctor appointment booking.
   <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
 </a>
 <br/>
+### 📊 Score Tracker – ML Productivity Platform
+
+ML-driven employee productivity analysis platform that predicts performance  
+and recommends high-impact tasks using historical task data.
+
+🔹 Flask • MongoDB  
+🔹 Productivity Score Prediction  
+🔹 Employee Ranking  
+🔹 Task Recommendation Engine  
+<a href="https://github.com/Ajeeshkumar73/score-tracker">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
 
 ### 🛡️ Online Crime Reporting & Analysis System
 
@@ -153,20 +165,40 @@ disease detection with solutions, and a marketplace to sell crops.
 
 <br/>
 
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌾 FARMIE – Agriculture Management System
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=farmie&theme=dark&hide_border=true" />
+
+<br/>
+
+### 🎯 LEARNLOOP – AI Career Assistant
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=LearnLoop&theme=dark&hide_border=true" />
+
+<br/>
+
+### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=wellness_wave&theme=dark&hide_border=true" />
+
 <br/>
 
 ### 📊 Score Tracker – ML Productivity Platform
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=score-tracker&theme=dark&hide_border=true" />
 
-ML-driven employee productivity analysis platform that predicts performance  
-and recommends high-impact tasks using historical task data.
+<br/>
 
-🔹 Flask • MongoDB  
-🔹 Productivity Score Prediction  
-🔹 Employee Ranking  
-🔹 Task Recommendation Engine  
-<a href="https://github.com/Ajeeshkumar73/score-tracker">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
-</a>
+### 🛡️ Online Crime Reporting & Analysis System
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=online-crime-reporting&theme=dark&hide_border=true" />
+
+<br/>
+
+### 🌱 FARMILY – Agricultural Support Platform
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=farmily&theme=dark&hide_border=true" />
+
 </div>
 
 ## 📊 GitHub Stats
