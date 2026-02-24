@@ -81,6 +81,55 @@
 
 <div align="center">
 
+### 🌾 FARMIE – Agriculture Management System
+
+Web-based agricultural marketplace supporting farm management,  
+online purchase of tools & fertilizers, and worker connectivity.
+
+🔹 HTML • CSS • Bootstrap • JS  
+🔹 PHP • MySQL  
+🔹 Admin Monitoring Panel  
+🔹 Online Order Management  
+
+<a href="https://github.com/Ajeeshkumar73/farmie">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
+
+<br/>
+
+
+
+### 🎯 LEARNLOOP – AI Career Assistant
+
+AI & ML powered career recommendation system with voice assistant  
+that predicts the top 3 suitable career paths.
+
+🔹 Django • PostgreSQL  
+🔹 Random Forest ML Model  
+🔹 Gemini 2.0 Flash AI  
+🔹 Voice-based Assistant 
+
+<a href="https://github.com/Ajeeshkumar73/LearnLoop">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
+
+<br/>
+
+### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
+
+Machine learning based healthcare system predicting lifestyle disease risk  
+with prevention strategies and doctor appointment booking.
+
+🔹 Flask • MongoDB  
+🔹 Random Forest ML  
+🔹 Risk Prediction System  
+🔹 Appointment Booking  
+
+<a href="https://github.com/Ajeeshkumar73/wellness_wave">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
+<br/>
+
 ### 🛡️ Online Crime Reporting & Analysis System
 
 Smart crime reporting platform enabling citizens to submit complaints online.  
@@ -92,20 +141,6 @@ Uses clustering & data mining techniques to analyze crime trends and assist inve
 🔹 Data Mining Based Analysis  
 
 <br/>
-
-### 🌾 FARMIE – Agriculture Management System
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=farmie&theme=dark&hide_border=true" />
-
-Web-based agricultural marketplace supporting farm management,  
-online purchase of tools & fertilizers, and worker connectivity.
-
-🔹 HTML • CSS • Bootstrap • JS  
-🔹 PHP • MySQL  
-🔹 Admin Monitoring Panel  
-🔹 Online Order Management  
-
-<br/>
-
 ### 🌱 FARMILY – Agricultural Support Platform
 
 Supports beginners entering farming by offering crop cultivation guidance,  
@@ -118,34 +153,9 @@ disease detection with solutions, and a marketplace to sell crops.
 
 <br/>
 
-### 🎯 LEARNLOOP – AI Career Assistant
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=LearnLoop&theme=dark&hide_border=true" />
-
-AI & ML powered career recommendation system with voice assistant  
-that predicts the top 3 suitable career paths.
-
-🔹 Django • PostgreSQL  
-🔹 Random Forest ML Model  
-🔹 Gemini 2.0 Flash AI  
-🔹 Voice-based Assistant  
-
-<br/>
-
-### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=wellness_wave&theme=dark&hide_border=true" />
-
-Machine learning based healthcare system predicting lifestyle disease risk  
-with prevention strategies and doctor appointment booking.
-
-🔹 Flask • MongoDB  
-🔹 Random Forest ML  
-🔹 Risk Prediction System  
-🔹 Appointment Booking  
-
 <br/>
 
 ### 📊 Score Tracker – ML Productivity Platform
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajeeshkumar73&repo=score-tracker&theme=dark&hide_border=true" />
 
 ML-driven employee productivity analysis platform that predicts performance  
 and recommends high-impact tasks using historical task data.
@@ -154,7 +164,9 @@ and recommends high-impact tasks using historical task data.
 🔹 Productivity Score Prediction  
 🔹 Employee Ranking  
 🔹 Task Recommendation Engine  
-
+<a href="https://github.com/Ajeeshkumar73/score-tracker">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
 </div>
 
 ## 📊 GitHub Stats
