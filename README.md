@@ -78,55 +78,86 @@
 ---
 
 ## 🚀 Featured Projects
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=REPO_NAME&theme=dark&hide_border=true" />
+
 <div align="center">
 
-### 🧠 AI Healthcare Prediction Platform
-Full-stack AI-powered web application that predicts lifestyle diseases  
-using ML models and provides risk classification, dashboards, and insights.
+### 🛡️ Online Crime Reporting & Analysis System
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=ONLINE-CRIME-REPORTING&theme=dark&hide_border=true" />
 
-🔹 Flask • MongoDB • Machine Learning • TabNet  
-🔹 User & Doctor Dashboard  
-🔹 AI Explainability + Risk Analysis  
+Smart crime reporting platform enabling citizens to submit complaints online.  
+Uses clustering & data mining techniques to analyze crime trends and assist investigations.
 
-<a href="https://github.com/Midhun-Nk/YOUR-REPO-LINK">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
-</a>
+🔹 HTML • CSS • Bootstrap • JavaScript  
+🔹 PHP • MySQL  
+🔹 Crime Pattern Detection  
+🔹 Data Mining Based Analysis  
 
-<br/><br/>
+<br/>
 
-### 🌾 Farmie – Smart Farmer Marketplace
-An online marketplace connecting farmers with buyers, tools, and workers.
+### 🌾 FARMIE – Agriculture Management System
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=FARMIE&theme=dark&hide_border=true" />
 
-🔹 Flask • MongoDB • HTML • CSS • JS  
-🔹 Order Tracking System  
-🔹 Role-based Dashboards  
-🔹 Profile & Image Management  
+Web-based agricultural marketplace supporting farm management,  
+online purchase of tools & fertilizers, and worker connectivity.
 
-<a href="https://github.com/Midhun-Nk/YOUR-REPO-LINK">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
-</a>
+🔹 HTML • CSS • Bootstrap • JS  
+🔹 PHP • MySQL  
+🔹 Admin Monitoring Panel  
+🔹 Online Order Management  
 
-<br/><br/>
+<br/>
 
-### 🎯 AI Career Recommendation System
-AI-powered system that suggests the best career domains  
-based on skills, interests, and occupation.
+### 🌱 FARMILY – Agricultural Support Platform
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=FARMILY&theme=dark&hide_border=true" />
 
-🔹 AI Career Matching  
-🔹 Skill Gap Analysis  
-🔹 Growth & Future Insights  
+Supports beginners entering farming by offering crop cultivation guidance,  
+disease detection with solutions, and a marketplace to sell crops.
 
-<a href="https://github.com/Midhun-Nk/YOUR-REPO-LINK">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
-</a>
+🔹 Python Flask • MongoDB  
+🔹 Crop Disease Solutions  
+🔹 Beginner Farming Guide  
+🔹 Sell Harvest Platform  
+
+<br/>
+
+### 🎯 LEARNLOOP – AI Career Assistant
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=LEARNLOOP&theme=dark&hide_border=true" />
+
+AI & ML powered career recommendation system with voice assistant  
+that predicts the top 3 suitable career paths.
+
+🔹 Django • PostgreSQL  
+🔹 Random Forest ML Model  
+🔹 Gemini 2.0 Flash AI  
+🔹 Voice-based Assistant  
+
+<br/>
+
+### ❤️ WELLNESS WAVE – Lifestyle Disease Prediction
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=WELLNESS-WAVE&theme=dark&hide_border=true" />
+
+Machine learning based healthcare system predicting lifestyle disease risk  
+with prevention strategies and doctor appointment booking.
+
+🔹 Flask • MongoDB  
+🔹 Random Forest ML  
+🔹 Risk Prediction System  
+🔹 Appointment Booking  
+
+<br/>
+
+### 📊 Score Tracker – ML Productivity Platform
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=SCORE-TRACKER&theme=dark&hide_border=true" />
+
+ML-driven employee productivity analysis platform that predicts performance  
+and recommends high-impact tasks using historical task data.
+
+🔹 Flask • MongoDB  
+🔹 Productivity Score Prediction  
+🔹 Employee Ranking  
+🔹 Task Recommendation Engine  
 
 </div>
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
