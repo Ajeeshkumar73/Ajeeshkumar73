@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/ajeesh-kumar-b-s-60978631a">
+  <a href="https://www.linkedin.com/in/ajeesh-kumar-b-s-60978631a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
