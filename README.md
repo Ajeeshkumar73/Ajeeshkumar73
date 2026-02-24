@@ -75,6 +75,54 @@
 </table>
 </p>
 
+---
+
+## 🚀 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Midhun-Nk&repo=REPO_NAME&theme=dark&hide_border=true" />
+<div align="center">
+
+### 🧠 AI Healthcare Prediction Platform
+Full-stack AI-powered web application that predicts lifestyle diseases  
+using ML models and provides risk classification, dashboards, and insights.
+
+🔹 Flask • MongoDB • Machine Learning • TabNet  
+🔹 User & Doctor Dashboard  
+🔹 AI Explainability + Risk Analysis  
+
+<a href="https://github.com/Midhun-Nk/YOUR-REPO-LINK">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+### 🌾 Farmie – Smart Farmer Marketplace
+An online marketplace connecting farmers with buyers, tools, and workers.
+
+🔹 Flask • MongoDB • HTML • CSS • JS  
+🔹 Order Tracking System  
+🔹 Role-based Dashboards  
+🔹 Profile & Image Management  
+
+<a href="https://github.com/Midhun-Nk/YOUR-REPO-LINK">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+### 🎯 AI Career Recommendation System
+AI-powered system that suggests the best career domains  
+based on skills, interests, and occupation.
+
+🔹 AI Career Matching  
+🔹 Skill Gap Analysis  
+🔹 Growth & Future Insights  
+
+<a href="https://github.com/Midhun-Nk/YOUR-REPO-LINK">
+  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+</a>
+
+</div>
+
 
 
 
