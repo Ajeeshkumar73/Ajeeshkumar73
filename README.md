@@ -126,6 +126,23 @@ I am a passionate Full Stack Developer and Web Developer dedicated to building m
 <table>
 
 <tr>
+<td width="50%" align="center">
+
+### 🌐 PERSONAL PORTFOLIO
+
+**Responsive Full-Stack Portfolio Website**
+
+Developed a portfolio using React.js, Django REST Framework, and SQLite with dynamic content management and deployed on Vercel and Render.
+
+<img src="https://skillicons.dev/icons?i=react,django,python,sqlite,tailwind,js" />
+
+<br><br>
+
+<a href="https://ajeeshkumar.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge"/>
+</a>
+
+</td>
 
 <td width="50%" align="center">
 
@@ -221,24 +238,6 @@ Built a PHP-based online crime reporting application enabling citizens to submit
 
 <a href="#">
 <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌐 PERSONAL PORTFOLIO
-
-**Responsive Full-Stack Portfolio Website**
-
-Developed a portfolio using React.js, Django REST Framework, and SQLite with dynamic content management and deployed on Vercel and Render.
-
-<img src="https://skillicons.dev/icons?i=react,django,python,sqlite,tailwind,js" />
-
-<br><br>
-
-<a href="https://ajeeshkumar.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge"/>
 </a>
 
 </td>
