@@ -21,15 +21,21 @@ I am a passionate Full Stack Developer and Web Developer dedicated to building m
 
 <h3>🌐 Socials</h3>
   
-<p align="left">
-
-
-  <a href="https://github.com/Ajeeshkumar73">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/Ajeeshkumar73" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/ajeesh-kumar-b-s-60978631a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ajeesh-kumar-b-s-60978631a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://ajeeshkumar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:ajeeshkumarbs168@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
