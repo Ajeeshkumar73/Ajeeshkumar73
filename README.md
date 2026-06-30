@@ -5,13 +5,13 @@
   Hi, I'm <strong>Ajeesh Kumar B S</strong>
 </h1>
 
-<h3>Full Stack Developer | Python(Flask, Django) • HTML, CSS , JS</h3>
+<h3>  Full Stack & Web Developer</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+I am a passionate Full Stack Developer and Web Developer dedicated to building modern, responsive, and user-friendly web applications. With expertise in both frontend and backend technologies, I create scalable digital solutions that combine clean design, efficient functionality, and seamless user experiences. I enjoy transforming ideas into impactful web products that solve real-world problems.
   </p>
 
   <p>
