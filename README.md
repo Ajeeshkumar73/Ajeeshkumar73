@@ -124,42 +124,41 @@ I am a passionate Full Stack Developer and Web Developer dedicated to building m
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
 
-<h3>🌾 FARMIE – Agriculture Management System</h3>
+### 🎯 LEARNLOOP
 
-<p>
-Web-based agricultural marketplace supporting farm management,
-online purchase of tools & fertilizers, and worker connectivity.
-</p>
+**AI-Powered Career Guidance & Skill Development Platform**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql" />
+Developed a full-stack AI-powered career guidance platform featuring personalized career recommendations, resume generation, job description analysis, and an AI mentor chatbot.
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=django,python,mongodb,tailwind,js" />
 
-<a href="https://github.com/Ajeeshkumar73/farmie">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🎯 LEARNLOOP – AI Career Assistant</h3>
-
-<p>
-AI & ML powered career recommendation system with voice assistant
-predicting top 3 suitable career domains.
-</p>
-
-<img src="https://skillicons.dev/icons?i=django,postgres,python,tailwind,js" />
-
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Ajeeshkumar73/LearnLoop">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### ❤️ WELLNESS WAVE
+
+**Lifestyle Disease Prediction System**
+
+Developed an intelligent healthcare platform that predicts lifestyle disease risks using deep learning with personalized health recommendations and appointment booking.
+
+<img src="https://skillicons.dev/icons?i=flask,python,mongodb,tailwind,js" />
+
+<br><br>
+
+<a href="https://github.com/Ajeeshkumar73/wellness_wave_main">
+<img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge"/>
 </a>
 
 </td>
@@ -170,38 +169,36 @@ predicting top 3 suitable career domains.
 
 <td width="50%" align="center">
 
-<h3>❤️ WELLNESS WAVE – Lifestyle Disease Prediction</h3>
+### 📊 SCORE TRACKER
 
-<p>
-ML-based healthcare platform predicting lifestyle disease risk
-with prevention strategies & appointment booking.
-</p>
+**Employee Productivity Monitoring System**
 
-<img src="https://skillicons.dev/icons?i=flask,mongodb,python,js,bootstrap" />
+Built an employee productivity platform with smart task recommendations, attendance management, performance analytics, and real-time communication.
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=flask,python,mongodb,tailwind,js" />
 
-<a href="https://github.com/Ajeeshkumar73/wellness_wave">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>📊 Score Tracker – ML Productivity Platform</h3>
-
-<p>
-ML-driven employee productivity system predicting performance,
-ranking employees & recommending high-impact tasks.
-</p>
-
-<img src="https://skillicons.dev/icons?i=flask,mongodb,python,tailwind,js" />
-
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Ajeeshkumar73/score-tracker">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌱 FARMIE
+
+**Agriculture Management System**
+
+Developed an agriculture management platform offering crop cultivation guidance, AI-based disease detection, and an integrated marketplace for farmers.
+
+<img src="https://skillicons.dev/icons?i=flask,python,mongodb,tailwind,js" />
+
+<br><br>
+
+<a href="https://github.com/Ajeeshkumar73/farmie">
+<img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge"/>
 </a>
 
 </td>
@@ -212,38 +209,36 @@ ranking employees & recommending high-impact tasks.
 
 <td width="50%" align="center">
 
-<h3>🛡️ Online Crime Reporting & Analysis</h3>
+### 🛡️ ONLINE CRIME REPORTING
 
-<p>
-Smart crime reporting platform with clustering-based crime
-pattern detection for efficient investigation.
-</p>
+**Crime Reporting & Analysis System**
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql" />
+Built a PHP-based online crime reporting application enabling citizens to submit complaints while integrating clustering-based crime analysis for pattern detection.
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap,js" />
+
+<br><br>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>🌱 FARMILY – Agricultural Support Platform</h3>
+### 🌐 PERSONAL PORTFOLIO
 
-<p>
-Beginner-friendly farming support system providing crop guidance,
-disease solutions & harvest selling platform.
-</p>
+**Responsive Full-Stack Portfolio Website**
 
-<img src="https://skillicons.dev/icons?i=flask,mongodb,python,js,bootstrap" />
+Developed a portfolio using React.js, Django REST Framework, and SQLite with dynamic content management and deployed on Vercel and Render.
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,django,python,sqlite,tailwind,js" />
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View_Project-1e1e2e?style=for-the-badge" />
+<br><br>
+
+<a href="https://ajeeshkumar.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge"/>
 </a>
 
 </td>
