@@ -126,6 +126,7 @@ I am a passionate Full Stack Developer and Web Developer dedicated to building m
 <table>
 
 <tr>
+
 <td width="50%" align="center">
 
 ### 🌐 PERSONAL PORTFOLIO
@@ -162,6 +163,10 @@ Developed a full-stack AI-powered career guidance platform featuring personalize
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" align="center">
 
 ### ❤️ WELLNESS WAVE
@@ -179,10 +184,6 @@ Developed an intelligent healthcare platform that predicts lifestyle disease ris
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" align="center">
 
@@ -202,6 +203,10 @@ Built an employee productivity platform with smart task recommendations, attenda
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" align="center">
 
 ### 🌱 FARMIE
@@ -219,10 +224,6 @@ Developed an agriculture management platform offering crop cultivation guidance,
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" align="center">
 
