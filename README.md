@@ -46,40 +46,76 @@ I am a passionate Full Stack Developer and Web Developer dedicated to building m
 
 
 ## 🛠️ Skills
+
 <p align="center">
+
 <table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,php" />
-<br/><br/>
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,php,c,js,html,css" />
+
+<br><br>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
+
+### 🚀 Frameworks & Libraries
+
 <img src="https://skillicons.dev/icons?i=react,django,flask,tailwind,bootstrap" />
+
+<br><br>
+
 </td>
 
-
-
 </tr>
+
 <tr>
+
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+<br><br>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,excel" />
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<br><br>
+
 </td>
+
 </tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 📖 Core Computer Science
+
+`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `REST APIs` • `MVC Architecture`
+
+</td>
+
+</tr>
+
 </table>
+
 </p>
+
+---
 
 ---
 
