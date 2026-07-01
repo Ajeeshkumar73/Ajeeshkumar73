@@ -105,7 +105,7 @@ I am a passionate Full Stack Developer and Web Developer dedicated to building m
 
 ### 📖 Core Computer Science
 
-`Data Structures` • `Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `REST APIs` • `MVC Architecture`
+Data Structures • Algorithms • OOP • DBMS • Operating Systems • Computer Networks • REST APIs • MVC Architecture • Machine Learning • Deep Learning • Artificial Intelligence • Scikit-Learn • LLM Integration • PyTorch TabNet
 
 </td>
 
