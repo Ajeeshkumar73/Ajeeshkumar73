@@ -249,12 +249,7 @@ Built a PHP-based online crime reporting application enabling citizens to submit
 
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Ajeeshkumar73&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
